@@ -105,40 +105,6 @@
       <br>Photoshop
     </td>
      </tr>
-   <tr>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
-      <br>Jest
-    </td>
-                <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MaterialUI" />
-      <br>Material UI
-    </td>
-                  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vuetify" width="48" height="48" alt="Vuetify" />
-      <br>Vuetify
-    </td>
-                 <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
-      <br>Cypress
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
-      <br>MySQL
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>jQuery
-    </td>
-     </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Laravel" />
