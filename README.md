@@ -1,4 +1,4 @@
-
+### Passionate Python and AI enthusiast, multi-award-winning competitive programmer (including Yandex contests), building innovative projects at TchTech.
 
 <div style="display: flex; align-items: flex-start">
 <table>
